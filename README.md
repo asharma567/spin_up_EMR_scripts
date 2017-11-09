@@ -1,3 +1,4 @@
+
 # EMR Bootstrap PySpark with Anaconda
 
 This code should help to jump start PySpark with Anaconda on AWS.
@@ -11,7 +12,6 @@ This code should help to jump start PySpark with Anaconda on AWS.
 - [Anaconda 3](https://www.continuum.io/downloads)
 - [AWS Account](https://aws.amazon.com/)
 
-## Copyright
+Still haven't quite got PySpark bindings to work. Meaning the gateway node will have it but child nodes won't work.
 
-See [LICENSE](LICENSE) for details.
-Copyright (c) 2016 [Dat Tran](http://www.dat-tran.com/).# spin_up_EMR_scripts
+[An exceptional post by Dat Tran, the author](https://github.com/datitran/emr-bootstrap-pyspark).

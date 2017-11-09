@@ -1,0 +1,13 @@
+emr:
+  aws_access_key: XXXXXXXXXXXXXXX
+  aws_secret_access_key: XXXXXXXXXXXXXXX
+  region_name: us-west-2
+  cluster_name: My cluster
+  instance_count: 3
+  master_instance_type: m3.xlarge
+  slave_instance_type: m3.xlarge
+  key_name: XXXXXXXXXXXXXXX
+  subnet_id: None
+  log_uri: s3://aws-logs-501125139437-us-west-2/elasticmapreduce/
+  software_version: emr-5.4.0
+  script_bucket_name: output_s3_bucket_name
